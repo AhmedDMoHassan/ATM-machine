@@ -1,0 +1,4 @@
+Ahmed,Hassan,2989,180000
+Ali,Hassan,2756,200000
+Youssef,Fady,2020,660
+Fatma,Ali,2003,0
